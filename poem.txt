@@ -1,4 +1,4 @@
-Add unicorm
+Add unicorm, the pony
 The Rainbow
 
 Purple
@@ -11,3 +11,4 @@ Unicorm
 Yellow
 Red
 These are the colors of the rainbow.
+Pony
